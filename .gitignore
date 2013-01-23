@@ -165,3 +165,5 @@ pip-log.txt
 
 packages/*
 !packages/repositories.config
+/*.private
+/MMDB.AzureSample.Web.Azure/Profiles/*.azurePubxml
