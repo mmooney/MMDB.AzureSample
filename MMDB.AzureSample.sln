@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMDB.AzureSample.Web", "MMDB.AzureSample.Web\MMDB.AzureSample.Web.csproj", "{3CF214DF-70B5-44D9-8A14-84F149F9AA5F}"
 EndProject
 Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "MMDB.AzureSample.Web.Azure", "MMDB.AzureSample.Web.Azure\MMDB.AzureSample.Web.Azure.ccproj", "{5756BB65-6C59-43AF-9EE5-93350FA219B3}"
