@@ -1,0 +1,20 @@
+{
+	"AzureSubscriptionIdentifier":"REPLACE_ME",
+	"AzureManagementCertificate" : "REPLACE_ME",
+	"ServiceName" : "REPLACE_ME",
+	"StorageAccountName" : "REPLACE_ME",
+	"AzurePackagePath": "REPLACE_ME",
+	"AzureConfigPath": "REPLACE_ME",
+	"RoleList": {
+		"REPLACE_ME": {
+			"InstanceCount": 1,
+			"ConfigurationSettingValues": {
+				"ConnectionString": "Data Source=MY_SERVER;Initial Catalog=MY_DATABASE;User ID=MY_USER; Password=MY_PASSWORD;",
+				"AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=REPLACE_ME;AccountKey=REPLACE_ME"
+			},
+			"CertificateThumbprints": {
+				"MyCertificate": "REPLACE_ME"
+			}			
+		}
+	}
+}

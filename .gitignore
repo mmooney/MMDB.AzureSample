@@ -167,3 +167,4 @@ packages/*
 !packages/repositories.config
 /*.private
 /MMDB.AzureSample.Web.Azure/Profiles/*.azurePubxml
+/MyDeployCloudService.json

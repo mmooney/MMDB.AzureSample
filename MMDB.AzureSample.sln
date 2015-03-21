@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMDB.AzureSample.Web", "MMD
 EndProject
 Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "MMDB.AzureSample.Web.Azure", "MMDB.AzureSample.Web.Azure\MMDB.AzureSample.Web.Azure.ccproj", "{5756BB65-6C59-43AF-9EE5-93350FA219B3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{2CAB37D5-B61C-418E-AC55-5E739739A4A5}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
